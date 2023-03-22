@@ -1,3 +1,7 @@
+# Important
+
+Check the new and still maintained version of this repo: https://github.com/ServerContainers/phppgadmin
+
 # phppgadmin - (marvambass/phppgadmin) (+ optional tls) on debian, apache2 [x86 + arm]
 
 _maintained by MarvAmBass_
